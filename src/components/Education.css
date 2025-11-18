@@ -1,0 +1,27 @@
+.education-card {
+  background-color: var(--card-background);
+  border-left: 6px solid var(--secondary-color);
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  max-width: 800px;
+  margin: 0 auto;
+}
+.education-school {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-bottom: 0.3rem;
+}
+.education-degree {
+  font-weight: 500;
+  color: var(--text-color);
+  margin-bottom: 0.3rem;
+}
+.education-period,
+.education-grade,
+.education-location {
+  font-size: 0.95rem;
+  color: var(--muted-text);
+  margin-bottom: 0.2rem;
+}
