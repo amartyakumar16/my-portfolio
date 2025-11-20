@@ -22,6 +22,10 @@ const Contact = () => {
           <span className="contact-icon">💼</span>
           <a href="https://github.com/amartyakumar16" target="_blank" rel="noreferrer">github.com/amartyakumar16</a>
         </div>
+       <div className="contact-item">
+          <span className="contact-icon">💼</span>
+          <a href="https://github.com/amartyakumar16" target="_blank" rel="noreferrer">github.com/amartyakumar16</a>
+        </div>
         <div className="contact-item">
           <span className="contact-icon">🔗</span>
           <a href="https://linkedin.com/in/amartya-kumar16" target="_blank" rel="noreferrer">linkedin.com/in/amartya-kumar16</a>
