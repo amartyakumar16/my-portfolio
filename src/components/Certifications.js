@@ -14,10 +14,6 @@ const certifications = [
     title: 'Xe‑Architect Certification – Xebia Academic Alliance (2024)',
     icon: '📜',
   },
-   {
-    title: 'AWS Academy Graduate – Cloud Foundations',
-    icon: '🎓',
-  },
   {
     title: 'First Runner Up – Intra Volleyball Tournament, UPES',
     icon: '🏆',
